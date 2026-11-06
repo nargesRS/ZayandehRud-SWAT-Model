@@ -3,7 +3,7 @@ This repository contains the geospatial data, meteorological and hydrological ti
 Repository Structure & File Descriptions
 The repository is organized into the following primary directories and modules:
 
-Study_Area_KMZ/
+Study_Area_KMZ
 
 Contents: A consolidated .kmz file.
 
